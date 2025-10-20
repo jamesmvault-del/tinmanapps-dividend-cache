@@ -1,0 +1,16 @@
+[
+  {
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "amazon_url": "https://www.amazon.com/dp/0060555661?tag=tinmanapps-20",
+    "category": "Value Investing",
+    "audience": "Intermediate"
+  },
+  {
+    "title": "The Little Book of Common Sense Investing",
+    "author": "John C. Bogle",
+    "amazon_url": "https://www.amazon.com/dp/1119404509?tag=tinmanapps-20",
+    "category": "Index Investing",
+    "audience": "Beginner"
+  }
+]

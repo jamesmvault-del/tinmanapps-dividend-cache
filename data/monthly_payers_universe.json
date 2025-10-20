@@ -1,0 +1,18 @@
+[
+  {
+    "symbol": "O",
+    "name": "Realty Income",
+    "sector": "REIT",
+    "payout_frequency": "Monthly",
+    "status": "active",
+    "last_verified": "2025-10-19"
+  },
+  {
+    "symbol": "STAG",
+    "name": "STAG Industrial",
+    "sector": "REIT",
+    "payout_frequency": "Monthly",
+    "status": "active",
+    "last_verified": "2025-10-19"
+  }
+]

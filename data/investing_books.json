@@ -1,0 +1,42 @@
+{
+  "rotation_mode": "daily",
+  "last_rotation": "2025-10-20T07:53:49Z",
+  "books": [
+    {
+      "title": "The Little Book of Common Sense Investing",
+      "author": "John C. Bogle",
+      "rating": 4.8,
+      "summary": "A timeless guide to low-cost index investing from Vanguard\u2019s founder.",
+      "amazon_url": "https://www.amazon.com/dp/1119404509?tag=tinmanapps-20",
+      "category": "Index Investing",
+      "audience": "Beginner"
+    },
+    {
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "rating": 4.7,
+      "summary": "Classic value investing guide that inspired Warren Buffett.",
+      "amazon_url": "https://www.amazon.com/dp/0060555661?tag=tinmanapps-20",
+      "category": "Value Investing",
+      "audience": "Intermediate"
+    },
+    {
+      "title": "One Up on Wall Street",
+      "author": "Peter Lynch",
+      "rating": 4.6,
+      "summary": "Peter Lynch explains how everyday investors can beat the pros.",
+      "amazon_url": "https://www.amazon.com/dp/0743200403?tag=tinmanapps-20",
+      "category": "Growth Investing",
+      "audience": "All"
+    },
+    {
+      "title": "Get Rich With Dividends",
+      "author": "Marc Lichtenfeld",
+      "rating": 4.5,
+      "summary": "Focuses on compounding wealth through dividend growth investing.",
+      "amazon_url": "https://www.amazon.com/dp/1118994130?tag=tinmanapps-20",
+      "category": "Dividend Investing",
+      "audience": "Beginner to Intermediate"
+    }
+  ]
+}
